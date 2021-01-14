@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://inferrences/"
+         xmlns="http://inferrences/">
+
+<owl:Ontology rdf:about="http://inferrences"/>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010346">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000314"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000342">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000275"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000124">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000125">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000469">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000185"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000473">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000469"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000474">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000469"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010343">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010410"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000589">
+  <owl:equivalentClass rdf:resource="http://semanticscience.org/resource/SIO_000609"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_001132">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010295">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010296">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000609">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000593"/>
+  <owl:equivalentClass rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_001135">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_001136">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_001139">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_001145">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000610">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000609"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000763">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000675"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_000779">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010008"/>
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010410"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010008">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000092"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010363">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_011125"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010287">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000589"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010043">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000092"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010007">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000092"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010025">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000092"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010085">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010410"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010092">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010410"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010423">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_011125"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010410">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000004"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010432">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_011125"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010436">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010410"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010455">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_011125"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010457">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010456"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semanticscience.org/resource/SIO_010458">
+  <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_010456"/>
+</rdf:Description>
+
+
+</rdf:RDF>
